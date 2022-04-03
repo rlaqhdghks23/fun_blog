@@ -1,5 +1,4 @@
 # fun_blog
 
-깃 허브 자 됩니까ddddddd
+대통합
 
-dd
