@@ -1,7 +1,7 @@
 # Site
 name: "내 집 인테리어"
 title: "내 집 인테리어"
-description: "coupang partners.."
+description: "인테리어 상품들을 추천하는 블로그입니다"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: /fun_blog
