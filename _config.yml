@@ -1,11 +1,11 @@
 # Site
-name: "선물 Blog"
-title: "선물 Blog"
+name: "내 집 인테리어"
+title: "내 집 인테리어"
 description: "coupang partners.."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: /fun_blog
-google_analytics: 'UA-46278016-1'
+google_analytics: 'G-62T9C9W3P5'
 disqus: 'demowebsite'
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 include: ["_pages"]
